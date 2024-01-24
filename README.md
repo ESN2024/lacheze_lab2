@@ -60,3 +60,6 @@ Le main ne contient que les initialisation des valeurs pour le 7 seg, le premier
 ![image](https://github.com/ESN2024/lacheze_lab2/assets/147801348/d5f7e733-17db-4888-aabd-cd536a8f0df7)
 
 # Réalisation
+
+
+https://github.com/ESN2024/lacheze_lab2/assets/147801348/dd01e83e-32fc-4bb2-a0fd-6ce0f9cf2eb6
