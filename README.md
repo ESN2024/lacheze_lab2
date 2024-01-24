@@ -51,3 +51,12 @@ La fonctionnement de ce programme reprend la même base que pour le compteur à 
 
 fichier: digit3_timer.c
 
+Le programme utilise une interruption à chaque seconde. La fonction de comptage est passé dans l'interruption du timer afin d'incrémenter la valeur de comptage à chaque interruption.
+
+![image](https://github.com/ESN2024/lacheze_lab2/assets/147801348/ca6a7dd0-5420-45e4-a251-340af3b92a71)
+
+Le main ne contient que les initialisation des valeurs pour le 7 seg, le premier affichage des valeurs sur les afficheurs et l'intialisation du timer et de l'interruption.
+
+![image](https://github.com/ESN2024/lacheze_lab2/assets/147801348/d5f7e733-17db-4888-aabd-cd536a8f0df7)
+
+# Réalisation
