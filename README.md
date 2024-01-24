@@ -1,7 +1,7 @@
 readme lab2
 
 # Présentation
-Le cours d'ESN11 set à mettre en oeuvre les connaissance apprise lors du cours de conception conjointe. Le but de ces TP est de se familiariser avec les systèmes basés sur un nios-II. Nous utilisons une carte électronique DE-10 lite qui contient un FPGA. L'objectif de ce lab est de réaliser un compteur sur 3 nombres et d'afficher la valeur de comptage sur des afficheurs 7 segments. Pour cela, nous allons utiliser un timer relié à une interruption. 
+Le cours d'ESN11 sert à mettre en oeuvre les connaissances apprises lors du cours de conception conjointe. Le but de ces TP est de se familiariser avec les systèmes basés sur un nios-II. Nous utilisons une carte électronique DE-10 lite qui contient un FPGA. L'objectif de ce lab est de réaliser un compteur sur 3 nombres et d'afficher la valeur de comptage sur des afficheurs 7 segments. Pour cela, nous allons utiliser un timer relié à une interruption. 
 
 # Architecture
 Voici l'achitecture de notre système:
